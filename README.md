@@ -13,6 +13,11 @@
 
 ![ロゴ](https://user-images.githubusercontent.com/83711779/195616859-4fbc5d1b-4719-4180-b39e-72e0269bbfec.png)
 
+　　
+- システム構成    
+  
+  SPA + REST API
+
 - 使用技術
   - フロントエンド　　
     - AWS ... S3
